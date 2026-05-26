@@ -36,6 +36,9 @@ README.md/: file that outlines the project
 
 ## Results
 Several SNPs with p-values lower than 10⁻⁶ were identified during the association analysis. However, false discovery rate (FDR) correction of the p-values using the Python statsmodels package revealed that none of the SNPs remained significantly associated.
+
+https://github.com/derewor/SNP_for_GWAS/blob/main/Results/root_growth_rate_mlm.jpg
+
 ## Author
 email: derewor@gmail.com
 
