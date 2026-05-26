@@ -35,7 +35,7 @@ Results/: Contains the results of the Manhattan Plot and QQ plot for the SNPs wi
 README.md/: file that outlines the project
 
 ## Results
-Several SNPs with p-values lower than 10⁻⁶ were identified during the association analysis. However, false discovery rate (FDR) correction of the p-values using the Python statsmodels package revealed that none of the SNPs remained significantly associated.
+Several SNPs with p-values lower than 10⁻3 were identified during the association analysis. However, false discovery rate (FDR) correction of the p-values using the Python statsmodels package revealed that none of the SNPs remained significantly associated.
 
 ![SNP_for_GWAS](https://github.com/derewor/SNP_for_GWAS/blob/main/Results/root_growth_rate_mlm.jpg)
 
